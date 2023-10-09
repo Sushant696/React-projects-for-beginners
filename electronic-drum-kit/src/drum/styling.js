@@ -9,7 +9,7 @@ export const StyledKit = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-background:  linear-gradient(rgb(154, 125, 10), rgb(148, 49, 38));
+  border-radius:4px;
 `;
 
 export const Container = styled.div`
